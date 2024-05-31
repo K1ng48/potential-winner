@@ -11,4 +11,4 @@ if(!$conn){
     die("Connection Fialed". mysqli_connect_error());
 } else {
     echo "Успех";
-} ?>
+}
