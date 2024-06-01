@@ -1,2 +1,0 @@
-# potential-winner
-HAHANOT
