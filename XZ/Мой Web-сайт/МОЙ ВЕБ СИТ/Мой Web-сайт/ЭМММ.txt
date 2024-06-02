@@ -1,0 +1,21 @@
+<HTML>
+<HEAD>
+<TITLE> Технологии </TITLE>
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+<P ALIGN=CENTER>
+<FONT COLOR="RED" SIZE="6" FACE=""ARIAL">
+<B> Расписание занятий </B>,BR>
+<B> для технологов </B><FONT><BR></P>
+<FONT COLOLR="BLUE"SIZE="4"FACE="COURIER"><B>Понидельник</B></FONT><BR>
+<TABLE BORDER="1" WIDTH=100% BGCOLOR="99CCCC">
+<TR BGCOIOR="CCCCFF" ALIGN=CENTER>
+<TD>Занятие</TD><TD>T-31</TD><TD>T-32</TD>
+<TD>T-33</TD><TD>
+<TR><TD>1</TD><TD>Информационные технологии</TD>
+<TD>Философия</TD><TD>Социология<TD></TR>
+<TR><TD>2</TD><TD>Технология ПП</TD><TD>Стандартизация</TD><TD>Основы права<TD></TD>
+<TR><TD>3</TD><TD>Организация производства</TD><TD>Охрана труда</TD><TD>Аналитическая химия<TD></TR>
+</TABLE>
+</BODY>
+</HTML>
