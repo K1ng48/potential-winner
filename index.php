@@ -377,20 +377,21 @@
                 <div id='n-799af219-6519-4ef9-9412-003963b0ccca' data-root-id="031927d1-7119-40ee-b258-bf0253f642b2" id='n-799af219-6519-4ef9-9412-003963b0ccca' class='cli-col cli-col-start__xl--4 cli-col-end__xl--10 cli-col-start__md--1 cli-col-end__md--7 cli-col-start__sm--1 cli-col-end__sm--5'
                 data-type='grid-col' data-design-type='grid-col'>
                     <h2 id='n-a5a46799-fb0a-4ec9-af7b-2cac9bf55ecc' data-root-id="031927d1-7119-40ee-b258-bf0253f642b2" id='n-a5a46799-fb0a-4ec9-af7b-2cac9bf55ecc' class='cli-block-title cli-block-title--large cli-text-center cli-text-bold' data-seo='true'
-                    data-type='text' data-title='Заголовок' data-draggable='true' data-design-type='text' data-design-order='2' data-content-order='1'>Онлайн-заказ</h2>
+                    data-type='text' data-title='Заголовок' data-draggable='true' data-design-type='text' data-design-order='2' data-content-order='1'>Выберите направление</h2>
                     <div id='n-696ade8e-6937-4180-ae4e-ef7ad10c913d' data-root-id="031927d1-7119-40ee-b258-bf0253f642b2" id='n-696ade8e-6937-4180-ae4e-ef7ad10c913d' class='cli-block-subtitle cli-block-subtitle--middle cli-text-center cli-text-regular'
-                    data-type='text' data-title='Подзаголовок' data-draggable='true' data-design-type='text' data-design-order='3' data-content-order='2'>Оформите заявку онлайн и забронируйте свой тур в любую страну мира прямо сейчас</div>
+                    data-type='text' data-title='Подзаголовок' data-draggable='true' data-design-type='text' data-design-order='3' data-content-order='2'>Найдите нужное направление онлайн и забронируйте свой тур в любую страну мира прямо сейчас</div>
                 </div>
                 <div id='n-320b1550-333c-4a9f-b634-b2b6dab84af1' data-root-id="031927d1-7119-40ee-b258-bf0253f642b2" id='n-320b1550-333c-4a9f-b634-b2b6dab84af1' class='cli-col cli-col-start__xl--4 cli-col-end__xl--10 cli-col-start__md--1 cli-col-end__md--7 cli-col-start__sm--1 cli-col-end__sm--5'
                 data-type='grid-col' data-design-type='grid-col'>
                     <form id='n-df7220fe-af61-4daa-b290-30bfe186abd1' data-root-id="031927d1-7119-40ee-b258-bf0253f642b2" id='n-df7220fe-af61-4daa-b290-30bfe186abd1' class='cli-form' data-type='form' data-title='Форма' data-script='form' data-draggable='true'
                     data-design-type='form' data-design-order='5' data-content-order='4'>
                         <input id='n-843e8ac3-f85b-41e3-a52f-92ced3ed7109' data-root-id="031927d1-7119-40ee-b258-bf0253f642b2" id='n-843e8ac3-f85b-41e3-a52f-92ced3ed7109' name='Имя' type='text' class='cli-input cli-form__input' data-type='input' data-title='Поля'
-                        placeholder='Ваше имя' data-design-type='input'></input>
+                        placeholder='Откуда' data-design-type='input'></input>
                         <input id='n-c7885502-b16d-4182-af6f-3c034925c201' data-root-id="031927d1-7119-40ee-b258-bf0253f642b2" id='n-c7885502-b16d-4182-af6f-3c034925c201' name='Телефон' type='tel' class='cli-input cli-form__input' data-type='input'
-                        data-title='Поля' placeholder='Номер телефона' data-design-type='input'></input>
+                        data-title='Поля' placeholder='Куда' data-design-type='input'></input>
                         <input id='n-0c51a145-ae98-415b-85c4-7ae9e6136a66' data-root-id="031927d1-7119-40ee-b258-bf0253f642b2" id='n-0c51a145-ae98-415b-85c4-7ae9e6136a66' name='Сообщение' type='text' class='cli-input cli-form__input' data-type='input'
-                        data-title='Поля' placeholder='Как мы можем помочь?' data-design-type='input'></input>
+                        data-title='Поля' placeholder='Как мы можем помочь?'  data-design-type='input'> <label for="dateInput">Выберите дату</label>
+<input type="date" id="dateInput"></input>
                         <fieldset id='n-7c1f13b4-981c-4ce4-a695-4784dd11aed9' data-root-id="031927d1-7119-40ee-b258-bf0253f642b2" id='n-7c1f13b4-981c-4ce4-a695-4784dd11aed9' class='cli-form__fieldset cli-form__fieldset--togglers' data-type='radio'
                         data-title='Радио-кнопки' data-design-type='radio'>
                             <legend id='n-703ee8dd-5326-4221-9b6a-6721bd2c706a' data-root-id="031927d1-7119-40ee-b258-bf0253f642b2" id='n-703ee8dd-5326-4221-9b6a-6721bd2c706a' class='cli-form__legend cli-block-caption cli-block-caption--middle' data-type='text'
